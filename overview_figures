@@ -1,2 +1,36 @@
-Most figures in the paper can be reproduced using the respective notebooks:
+Most figures in the paper can be reproduced using the respective notebooks and would be saved under the paths below:
 
+Fig.2    : OBS_CMIP6_pcmciplus.ipynb
+    path : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/No_mask_115_yr/*plt_causalgraph.png
+    ...  : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/No_mask_115_yr/*timeseries.png
+
+Fig.3    : OBS_CMIP6_pcmciplus.ipynb
+    path : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/PDV-_56_yr/*plt_causalgraph.png
+    ...  : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/PDV-_56_yr/*timeseries.png
+    ...  : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/PDV+_59_yr/*plt_causalgraph.png
+    ...  : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/PDV+_59_yr/*timeseries.png
+
+Fig.4b   : Spatial_correlation.ipynb
+    path : Results_DIR/boxplot_cmip6_pattern_spatial_correlations.png
+
+Fig.5    : OBS_CMIP6_pcmciplus.ipynb    
+    path : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/*_yr/*plt_causalgraph.png
+
+Fig.7    : Ensemble_graphs.ipynb
+    path : Results_DIR/Ensemble_causal_graphs/CanESM5*_summary.png
+
+Fig.8a   : F1_score.ipynb
+    path : Results_DIR/F1_3_regime_horizboxplot.png
+
+Fig.8b   : OBS_CMIP6_pcmciplus.ipynb
+    path : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/outphase_65_yr/*plt_causalgraph.png
+    ...  : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/No_mask_115_yr/lowpass_amv_pdv_timeseries_phases.png
+    ...  : Results_DIR/CanESM5/CanESM5_r17i1p2f1_1900_2014_tau_15/outphase*/*plt_causalgraph.png
+    ...  : Results_DIR/CanESM5/CanESM5_r17i1p2f1_1900_2014_tau_15/No_mask*/*lowpass_amv_pdv_timeseries_phases.png
+    ...  : Results_DIR/CanESM5/CanESM5_r11i1p2f1_1900_2014_tau_15/outphase*/*plt_causalgraph.png
+    ...  : Results_DIR/CanESM5/CanESM5_r11i1p2f1_1900_2014_tau_15/No_mask*/*lowpass_amv_pdv_timeseries_phases.png
+    ...  : Results_DIR/MIROC6/MIROC6_r20i1p1f1_1900_2014_tau_15/outphase*/*plt_causalgraph.png
+    ...  : Results_DIR/MIROC6/MIROC6_r20i1p1f1_1900_2014_tau_15/No_mask*/*lowpass_amv_pdv_timeseries_phases.png
+
+Fig.9    : F1_score.ipynb
+    path : Results_DIR/*paiwaise_f1_matrix.png
