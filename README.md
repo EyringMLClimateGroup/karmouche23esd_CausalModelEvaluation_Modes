@@ -7,7 +7,7 @@
 # **I. INSTALLATION**
 
 #### **1.**  Clone the repository: 
-    git clone https://gitlab.dkrz.de/causality/karmouche22copernicus_CME_CMIP6.git
+    git clone https://github.com/EyringMLClimateGroup/karmouche22copernicus_CME_CMIP6
 
 #### **2.**  Create conda environment from environment.yml:
     conda env create -f environment.yml
