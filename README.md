@@ -40,7 +40,7 @@ After installing TIGRAMITE and downloading the data, it is time to slightly edit
 3. In the **sixth code cell** (6th not counting markdown cells): **Change the path_to_data** accroding to where it is stored (i.e. **replace 'path_to_data' in the second line**)
 ##### [F1_score.ipynb](../main/F1_score.ipynb) and [Ensemble_graphs.ipynb](../main/Ensemble_graphs.ipynb): 
 1. In the **first code cell** (1st not counting markdown cells): **Remove the hashtag (#)** at the beginning of last line in the **Imports cell** (e.g. `from tigramite import plotting as tp`)
-##### [Spatial_correlation.ipynb](../main/Spatial_correlation.ipynb): 
+##### [Pattern_correlation.ipynb](../main/Pattern_correlation.ipynb): 
 1. In the **third code cell** (3rd not counting markdown cells): **Change the path_to_data** accroding to where it is stored (i.e. **replace 'path_to_data' in the first two lines**)
 2. In the **fourth code cell** (4th not counting markdown cells): **Change the path_to_data** accroding to where it is stored (i.e. **replace 'path_to_data' in the fourth line**)
 
@@ -55,7 +55,7 @@ After installing TIGRAMITE and downloading the data, it is time to slightly edit
 **We recommend running the notebooks in the order below:**      
 (some notebooks require results from other notebooks)
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. [Spatial_correlation.ipynb](../main/Spatial_correlation.ipynb)**        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. [Pattern_correlation.ipynb](../main/Pattern_correlation.ipynb)**        
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2. [OBS_CMIP6_pcmciplus.ipynb](../main/OBS_CMIP6_pcmciplus.ipynb)**        
 
