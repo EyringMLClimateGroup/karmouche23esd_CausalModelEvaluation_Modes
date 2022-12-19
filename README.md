@@ -15,8 +15,10 @@
     conda activate causalenv
 
 #### **3.** Install the TIGRAMITE package to use PCMCI+: please follow instructions: [here](https://github.com/jakobrunge/tigramite) 
-It is the User's responsibility to install TIGRAMITE. Results of the paper have been produced using version: 5.0.1.17
-
+**It is the User's responsibility to install TIGRAMITE**. Results of the paper have been produced using version: 5.0.1.17
+After installing Tigramite in the conda environment, add environment to jupyter kernels:
+    
+    python -m ipykernel install --user --name=causalenv   
 ---------------
 
 
