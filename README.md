@@ -11,6 +11,8 @@
 
 #### **2.**  Create conda environment from environment.yml:
     conda env create -f environment.yml
+    
+    conda activate causalenv
 
 #### **3.** Install the TIGRAMITE package to use PCMCI+: please follow instructions: [here](https://github.com/jakobrunge/tigramite) 
 It is the User's responsibility to install TIGRAMITE. Results of the paper have been produced using version: 5.0.1.17
