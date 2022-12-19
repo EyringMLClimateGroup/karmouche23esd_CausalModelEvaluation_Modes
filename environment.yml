@@ -1,4 +1,4 @@
-name: karm22_CME_CMIP6
+name: causalenv
 channels:
   - pytorch
   - anaconda
@@ -194,4 +194,4 @@ dependencies:
   - zstd=1.5.2=ha95c52a_0
   - pip:
     - six==1.16.0
-prefix: /home/b/b380749/mambaforge/envs/Tigralevante
+prefix: /home/b/b380749/mambaforge/envs/causalenv
