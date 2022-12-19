@@ -10,8 +10,8 @@ Fig.3    : OBS_CMIP6_pcmciplus.ipynb
     ...  : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/PDV+_59_yr/*plt_causalgraph.png
     ...  : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/PDV+_59_yr/*timeseries.png
 
-Fig.4b   : Spatial_correlation.ipynb
-    path : Results_DIR/boxplot_cmip6_pattern_spatial_correlations.png
+Fig.4b   : Pattern_correlation.ipynb
+    path : Results_DIR/boxplot_cmip6_pattern_Pattern_correlations.png
 
 Fig.5    : OBS_CMIP6_pcmciplus.ipynb    
     path : Results_DIR/ERSST_v5ERA20C_ERA5_1900_2014_tau_15/*_yr/*plt_causalgraph.png
