@@ -10,11 +10,23 @@
     git clone https://github.com/EyringMLClimateGroup/karmouche22copernicus_CME_CMIP6
 
 #### **2.**  Create conda environment from environment.yml:
+    cd karmouche22copernicus_CME_CMIP6
+    
     conda env create -f environment.yml
     
     conda activate causalenv
 
-#### **3.** Install the TIGRAMITE package to use PCMCI+: please follow instructions: [here](https://github.com/jakobrunge/tigramite) 
+    cd ..
+
+#### **3.** Install the TIGRAMITE package to use PCMCI+: please follow instructions: [here](https://github.com/jakobrunge/tigramite)
+    git clone https://github.com/jakobrunge/tigramite.git
+
+    cd tigramite   
+
+    python setup.py install
+
+    cd ..
+     
 **It is the User's responsibility to install TIGRAMITE**. Results of the paper have been produced using version: 5.0.1.17
 
 After installing Tigramite in the conda environment, add environment to jupyter kernels:

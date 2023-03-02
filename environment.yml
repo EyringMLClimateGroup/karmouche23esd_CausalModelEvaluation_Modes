@@ -194,4 +194,3 @@ dependencies:
   - zstd=1.5.2=ha95c52a_0
   - pip:
     - six==1.16.0
-prefix: /home/b/b380749/mambaforge/envs/causalenv
