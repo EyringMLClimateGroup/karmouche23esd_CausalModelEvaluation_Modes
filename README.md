@@ -1,4 +1,4 @@
-08.08.2022 @Soufiane Karmouche (SK), Institute of Enviromental Physics (IUP), University of Bremen
+08.08.2022 @Soufiane Karmouche (SK), Institute of Environmental Physics (IUP), University of Bremen
 
 - This repository presents a sample of the regime-oriented causal model evaluation (CME) in the form of jupyter notebooks. The main set of code is used to produce most of the figures on the paper "karmouche22copernicus_CME_CMIP6" 
 
@@ -85,11 +85,6 @@ After installing TIGRAMITE and downloading the data, it is time to slightly edit
 #####  Results from running the jupyter notebooks will be saved under the `Results_DIR/` directory
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To refer to figures from the paper, please see [overview_figures](../main/overview_figures) to locate the notebook needed to produce a specific plot. 
 
----------------
-
-## PS:
-
-_This is a Work in Progress (WIP) and is yet to be finalized_
 
 ---------------
 
