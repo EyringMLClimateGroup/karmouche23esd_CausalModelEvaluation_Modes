@@ -1,16 +1,16 @@
 08.08.2022 @Soufiane Karmouche (SK), Institute of Environmental Physics (IUP), University of Bremen
 
-- This repository presents a sample of the regime-oriented causal model evaluation (CME) in the form of jupyter notebooks. The main set of code is used to produce most of the figures on the paper "karmouche23ESD_CausalModelEvaluation_Modes" 
+- This repository presents a sample of the regime-oriented causal model evaluation (CME) in the form of jupyter notebooks. The main set of code is used to produce most of the figures on the paper "karmouche23esd_CausalModelEvaluation_Modes" 
 
 
 
 # **I. INSTALLATION**
 
 #### **1.**  Clone the repository: 
-    git clone https://github.com/EyringMLClimateGroup/karmouche23ESD_CausalModelEvaluation_Modes
+    git clone https://github.com/EyringMLClimateGroup/karmouche23esd_CausalModelEvaluation_Modes
 
 #### **2.**  Create conda environment from environment.yml:
-    cd karmouche23ESD_CausalModelEvaluation_Modes
+    cd karmouche23esd_CausalModelEvaluation_Modes
     
     conda env create -f environment.yml
     
