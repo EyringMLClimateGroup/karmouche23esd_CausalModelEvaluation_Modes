@@ -2,7 +2,7 @@
 
 - This repository presents a sample of the regime-oriented causal model evaluation (CME) in the form of jupyter notebooks. The main set of code is used to produce most of the figures on the paper "karmouche23esd_CausalModelEvaluation_Modes" 
 
-
+Corresponding DOI: [![DOI](https://zenodo.org/badge/610290760.svg)](https://zenodo.org/badge/latestdoi/610290760)
 
 # **I. INSTALLATION**
 
