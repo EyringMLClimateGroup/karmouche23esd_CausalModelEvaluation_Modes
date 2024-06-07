@@ -2,7 +2,8 @@
 
 - This repository presents a sample of the regime-oriented causal model evaluation (CME) in the form of jupyter notebooks. The main set of code is used to produce most of the figures on the paper "karmouche23esd_CausalModelEvaluation_Modes" 
 
-Karmouche, S., Galytska, E., Runge, J., Meehl, G. A., Phillips, A. S., Weigel, K., and Eyring, V.: Regime-oriented causal model evaluation of Atlantic-Pacific teleconnections in CMIP6, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-1013, 2022.
+ 
+Karmouche, S., Galytska, E., Runge, J., Meehl, G. A., Phillips, A. S., Weigel, K., and Eyring, V.: Regime-oriented causal model evaluation of Atlantic–Pacific teleconnections in CMIP6, Earth Syst. Dynam., 14, 309–344, https://doi.org/10.5194/esd-14-309-2023, 2023.
 
 Corresponding DOI: [![DOI](https://zenodo.org/badge/610290760.svg)](https://zenodo.org/badge/latestdoi/610290760)
 
